@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1070557640642",
+    "firebase_url": "https://iitbhu-codefest2018hackathon.firebaseio.com",
+    "project_id": "iitbhu-codefest2018hackathon",
+    "storage_bucket": "iitbhu-codefest2018hackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070557640642:android:05fb99c919bffc8a",
+        "android_client_info": {
+          "package_name": "com.app.smartcampus.smartcampus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070557640642-msv1ko5n49a84cdov7d3qe1alac18nrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRsjZbdCWMVbT3m2lagewpT9MsU_r_X_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
