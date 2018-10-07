@@ -10,3 +10,8 @@
 
 For help getting started with Flutter, view online
 [documentation](https://flutter.io/).
+
+## Features
+1. Displays all the events and workshops happening inside the college.    
+2. Administrator accounts of all the clubs in the college.  
+3. Available b0th for andrios and ios.  
